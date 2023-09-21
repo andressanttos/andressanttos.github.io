@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f7f7f7;
+    background-color: #728C69;
 }
 
 .container {
@@ -14,7 +14,8 @@ body {
 
 h1 {
     font-size: 36px;
-    color: #8B4513;
+    color: #523306
+;
     margin-top: 20px;
     z-index: 1;
 }
